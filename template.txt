@@ -1,0 +1,1050 @@
+{
+    "status": "success",
+    "data": {
+        "_id": "44ptrfc46",
+        "title": "Srikrishna - Software Testing - Software Testing Levels - Quiz",
+        "name": "Software Testing Levels",
+        "description": "",
+        "tags": [
+            "Srikrishna - Software Testing"
+        ],
+        "status": "published",
+        "testIntent": "quiz",
+        "labMode": true,
+        "timeLimit": 0,
+        "showInstructionsOnStart": false,
+        "shuffleQuestions": false,
+        "captureUserImages": false,
+        "recordSession": false,
+        "forceFullScreen": false,
+        "captureTabSwitches": false,
+        "closeAfterNumberOfTabSwitches": 0,
+        "showReportAfterTest": false,
+        "sendReportViaEmail": false,
+        "showReportAfter": "",
+        "questions": [
+            {
+                "_id": "44ptr84sd",
+                "title": "SriKrishna - software testing - 2.1",
+                "description": "A developer writes a test to verify that a method calculateDiscount() returns 10% for orders above ₹500. This is an example of:",
+                "explanation": "Unit testing validates individual functions or methods in isolation, typically done by developers.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "easy",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "unit-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "remember",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Integration Testing",
+                        "System Testing",
+                        "Unit Testing",
+                        "Acceptance Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "b245656bd1db965f4e9a832d9baa30c88ccc959b",
+                "created": "2026-05-20T08:16:15.177Z",
+                "updated": "2026-05-20T08:16:15.177Z",
+                "metrics": {
+                    "totalAttempts": 441,
+                    "successAttempts": 435,
+                    "avgScore": 0.99,
+                    "completionPercentage": 98.64,
+                    "totalTimeSpent": 23071,
+                    "totalSubmissions": 457,
+                    "avgTimeSpent": 52.32,
+                    "lastAttempted": "2026-09-09T17:31:25.101Z",
+                    "lastCalculated": "2026-09-09T20:30:33.781Z"
+                }
+            },
+            {
+                "_id": "44ptr84re",
+                "title": "SriKrishna - software testing - 2.2",
+                "description": "After a new build is deployed, the QA team quickly tests core features like login, dashboard load, and logout. This is called:",
+                "explanation": "Smoke testing is a shallow, wide test to confirm the build is stable enough for further testing.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "easy",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "smoke-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "remember",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Regression Testing",
+                        "Sanity Testing",
+                        "Alpha Testing",
+                        "Smoke Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "ae681fc4825e1a2f3886c78ccb19b908d32d9ca7",
+                "created": "2026-05-20T08:16:15.172Z",
+                "updated": "2026-05-20T08:16:15.172Z",
+                "metrics": {
+                    "totalAttempts": 440,
+                    "successAttempts": 429,
+                    "avgScore": 0.97,
+                    "completionPercentage": 97.5,
+                    "totalTimeSpent": 9737,
+                    "totalSubmissions": 455,
+                    "avgTimeSpent": 22.13,
+                    "lastAttempted": "2026-09-09T16:38:44.751Z",
+                    "lastCalculated": "2026-09-09T20:30:33.604Z"
+                }
+            },
+            {
+                "_id": "44ptr84rq",
+                "title": "SriKrishna - software testing - 2.3",
+                "description": "A gaming company releases its app to a selected group of external users before the official launch to collect feedback. This is:",
+                "explanation": "Beta testing involves real end-users testing the product in a real environment before the final release.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "easy",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "beta-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "remember",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Beta Testing",
+                        "System Testing",
+                        "Alpha Testing",
+                        "Sanity Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "d3953ab06e7a7b64b56a9103fb635c41e2709391",
+                "created": "2026-05-20T08:16:15.173Z",
+                "updated": "2026-05-20T08:16:15.173Z",
+                "metrics": {
+                    "totalAttempts": 439,
+                    "successAttempts": 432,
+                    "avgScore": 0.98,
+                    "completionPercentage": 98.41,
+                    "totalTimeSpent": 7562,
+                    "totalSubmissions": 450,
+                    "avgTimeSpent": 17.23,
+                    "lastAttempted": "2026-09-09T16:39:14.551Z",
+                    "lastCalculated": "2026-09-09T20:30:33.656Z"
+                }
+            },
+            {
+                "_id": "44ptr84sj",
+                "title": "SriKrishna - software testing - 2.4",
+                "description": "Module A sends customer data to Module B for invoice generation. During integration testing, the invoice total is incorrect. What is the most likely cause?",
+                "explanation": "Integration testing detects defects in the interaction and data exchange between modules, not within individual modules.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "medium",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "integration-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "analyze",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Bug in Module A's internal logic",
+                        "Incorrect data passed between Module A and Module B",
+                        "Bug in the database schema",
+                        "Network latency issue"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "e9bd3f2aabaee15dd82078a4271803e7c494bee8",
+                "created": "2026-05-20T08:16:15.177Z",
+                "updated": "2026-05-20T08:16:15.177Z",
+                "metrics": {
+                    "totalAttempts": 438,
+                    "successAttempts": 432,
+                    "avgScore": 0.99,
+                    "completionPercentage": 98.63,
+                    "totalTimeSpent": 6952,
+                    "totalSubmissions": 453,
+                    "avgTimeSpent": 15.87,
+                    "lastAttempted": "2026-09-09T16:39:42.221Z",
+                    "lastCalculated": "2026-09-09T20:30:33.810Z"
+                }
+            },
+            {
+                "_id": "44ptr84u7",
+                "title": "SriKrishna - software testing - 2.5",
+                "description": "A developer fixes a login bug. The QA team re-runs the full test suite to ensure the fix hasn't broken other features. This is:",
+                "explanation": "Regression testing ensures that new changes don't break existing functionality that was working before.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "medium",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "regression-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "understand",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Sanity Testing",
+                        "System Testing",
+                        "Smoke Testing",
+                        "Regression Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "63bb3e4e627b6af4f008807af446346de609215d",
+                "created": "2026-05-20T08:16:15.187Z",
+                "updated": "2026-05-20T08:16:15.187Z",
+                "metrics": {
+                    "totalAttempts": 437,
+                    "successAttempts": 430,
+                    "avgScore": 0.98,
+                    "completionPercentage": 98.4,
+                    "totalTimeSpent": 7868,
+                    "totalSubmissions": 458,
+                    "avgTimeSpent": 18,
+                    "lastAttempted": "2026-09-09T16:40:11.258Z",
+                    "lastCalculated": "2026-09-09T20:30:34.114Z"
+                }
+            },
+            {
+                "_id": "44ptr84rt",
+                "title": "SriKrishna - software testing - 2.6",
+                "description": "After a regression cycle, only the bug-fix area is re-tested to confirm the fix is working. This targeted testing is called:",
+                "explanation": "Sanity testing is a narrow and focused test performed after a fix to verify that the specific issue is resolved.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "medium",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "sanity-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "understand",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Smoke Testing",
+                        "Sanity Testing",
+                        "End-to-End Testing",
+                        "Unit Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "4e38013f9f3a271d3d201884f7f899600e414fe1",
+                "created": "2026-05-20T08:16:15.174Z",
+                "updated": "2026-05-20T08:16:15.174Z",
+                "metrics": {
+                    "totalAttempts": 437,
+                    "successAttempts": 424,
+                    "avgScore": 0.97,
+                    "completionPercentage": 97.03,
+                    "totalTimeSpent": 6478,
+                    "totalSubmissions": 456,
+                    "avgTimeSpent": 14.82,
+                    "lastAttempted": "2026-09-09T16:40:26.262Z",
+                    "lastCalculated": "2026-09-09T20:30:33.674Z"
+                }
+            },
+            {
+                "_id": "44ptr84uu",
+                "title": "SriKrishna - software testing - 2.7",
+                "description": "A bank's software team has completed all testing internally. The bank manager now tests the system using real transaction data. This is:",
+                "explanation": "Acceptance Testing (UAT) is performed by the client/end-user to validate the system meets business requirements.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "medium",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "acceptance-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "apply",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "System Testing",
+                        "Integration Testing",
+                        "Regression Testing",
+                        "Acceptance Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "9798b74db5a685aacbbb6711f740640df286c172",
+                "created": "2026-05-20T08:16:15.190Z",
+                "updated": "2026-05-20T08:16:15.190Z",
+                "metrics": {
+                    "totalAttempts": 437,
+                    "successAttempts": 433,
+                    "avgScore": 0.99,
+                    "completionPercentage": 99.08,
+                    "totalTimeSpent": 6530,
+                    "totalSubmissions": 451,
+                    "avgTimeSpent": 14.94,
+                    "lastAttempted": "2026-09-09T16:41:12.554Z",
+                    "lastCalculated": "2026-09-09T20:30:34.230Z"
+                }
+            },
+            {
+                "_id": "44ptr84rm",
+                "title": "SriKrishna - software testing - 2.8",
+                "description": "A tester validates a complete online shopping flow: user login → product search → add to cart → payment → order confirmation. This represents:",
+                "explanation": "End-to-End testing verifies the complete business workflow from start to finish, simulating real user scenarios.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "hard",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "end-to-end-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "analyze",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "System Testing only",
+                        "Integration Testing",
+                        "End-to-End Testing",
+                        "Acceptance Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "f9010c5d695695e7352ad970379d58e8295b4649",
+                "created": "2026-05-20T08:16:15.173Z",
+                "updated": "2026-05-20T08:16:15.173Z",
+                "metrics": {
+                    "totalAttempts": 437,
+                    "successAttempts": 430,
+                    "avgScore": 0.98,
+                    "completionPercentage": 98.4,
+                    "totalTimeSpent": 6563,
+                    "totalSubmissions": 454,
+                    "avgTimeSpent": 15.02,
+                    "lastAttempted": "2026-09-09T16:41:31.847Z",
+                    "lastCalculated": "2026-09-09T20:30:33.641Z"
+                }
+            },
+            {
+                "_id": "44ptr84rn",
+                "title": "SriKrishna - software testing - 2.9",
+                "description": "A critical bug is found in production where two correctly-functioning modules exchange data in the wrong format. Which testing level failed to catch this?",
+                "explanation": "Both modules worked in isolation (unit testing passed), but the defect lay in their interaction - an integration testing gap.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "hard",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "integration-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "analyze",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Integration Testing",
+                        "System Testing",
+                        "Unit Testing",
+                        "Acceptance Testing"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "201b69e3d12b359c63e1d20ceb3962e7fe31ab42",
+                "created": "2026-05-20T08:16:15.173Z",
+                "updated": "2026-05-20T08:16:15.173Z",
+                "metrics": {
+                    "totalAttempts": 437,
+                    "successAttempts": 428,
+                    "avgScore": 0.98,
+                    "completionPercentage": 97.94,
+                    "totalTimeSpent": 7220,
+                    "totalSubmissions": 449,
+                    "avgTimeSpent": 16.52,
+                    "lastAttempted": "2026-09-09T16:42:17.986Z",
+                    "lastCalculated": "2026-09-09T20:30:33.646Z"
+                }
+            },
+            {
+                "_id": "44ptr84rr",
+                "title": "SriKrishna - software testing - 2.10",
+                "description": "After 200 test cases pass in a release, a minor UI label change is made. A junior tester suggests running all 200 cases again. A senior tester disagrees. Who is right, and why?",
+                "explanation": "Since the change is minor and localized, impact-based testing or limited regression testing is sufficient instead of executing the full regression suite.",
+                "score": 1,
+                "type": "multipleChoice",
+                "difficulty": "hard",
+                "tags": [
+                    "practice-question",
+                    "ski-software-testing-c2",
+                    "regression-testing"
+                ],
+                "subjects": [
+                    "custom-course"
+                ],
+                "topics": [
+                    "srikrishna-software-testing"
+                ],
+                "subTopics": [
+                    "software-testing-levels"
+                ],
+                "companies": [],
+                "status": "published",
+                "bloomTaxonomy": "evaluate",
+                "multipleChoiceOptions": {
+                    "selectionType": "single",
+                    "options": [
+                        "Junior tester - all cases must always be re-run",
+                        "Senior tester - only impacted areas need re-testing",
+                        "Both - parallel testing is best",
+                        "Neither - the build should be rejected"
+                    ],
+                    "answer": []
+                },
+                "permission": {
+                    "visibility": "bxl"
+                },
+                "updatedBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "createdBy": {
+                    "_id": "3zasqh492",
+                    "name": "Akila Rengarajan"
+                },
+                "hash": "8161a42032a7254855705d27323953416d9b7dec",
+                "created": "2026-05-20T08:16:15.173Z",
+                "updated": "2026-05-20T08:16:15.173Z",
+                "metrics": {
+                    "totalAttempts": 437,
+                    "successAttempts": 433,
+                    "avgScore": 0.99,
+                    "completionPercentage": 99.08,
+                    "totalTimeSpent": 21519,
+                    "totalSubmissions": 459,
+                    "avgTimeSpent": 49.24,
+                    "lastAttempted": "2026-09-09T16:44:40.318Z",
+                    "lastCalculated": "2026-09-09T20:30:33.663Z"
+                }
+            }
+        ],
+        "enableSections": false,
+        "sections": [],
+        "enableSafeBrowser": false,
+        "blockBrowserPlugins": false,
+        "plagiarismChecker": false,
+        "passCode": "",
+        "restrictIpAddressesEnabled": false,
+        "restrictIpAddresses": [],
+        "enableAiAssistance": false,
+        "updatedBy": {
+            "_id": "3zasqh492",
+            "name": "Akila Rengarajan"
+        },
+        "createdBy": {
+            "_id": "3zasqh492",
+            "name": "Akila Rengarajan"
+        },
+        "score": 10,
+        "permission": {
+            "organizations": [],
+            "branches": [],
+            "batches": [],
+            "userGroups": [],
+            "schedules": [],
+            "_scheduleMinStartsAt": null,
+            "_scheduleMaxEndsAt": null
+        },
+        "created": "2026-05-20T08:19:50.772Z",
+        "updated": "2026-05-20T08:28:18.243Z",
+        "questionTypes": [
+            "multipleChoice"
+        ],
+        "versionStatus": "created",
+        "testProgress": {
+            "_id": "44ptrfc46_44rabkuq9",
+            "created": "2026-09-05T08:35:33.847Z",
+            "lastOpened": "2026-09-10T06:41:18.844Z",
+            "problemIdsOrder": null,
+            "test": {
+                "_id": "44ptrfc46"
+            },
+            "user": {
+                "_id": "44rabkuq9"
+            },
+            "updated": "2026-09-10T06:40:25.018Z"
+        },
+        "questionProgress": [
+            {
+                "_id": "44ptrfc46_44ptr84sd_44rabkuq9",
+                "created": "2026-09-05T08:35:44.692Z",
+                "question": {
+                    "_id": "44ptr84sd"
+                },
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "timeSpent": 441,
+                "updated": "2026-09-10T06:40:08.196Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        3
+                    ]
+                },
+                "submissionsCount": 1,
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 2048,
+                        "height": 1034
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "42.104.212.44",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84re_44rabkuq9",
+                "created": "2026-09-05T08:36:24.414Z",
+                "question": {
+                    "_id": "44ptr84re"
+                },
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "timeSpent": 1200,
+                "updated": "2026-09-05T09:01:31.258Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        3
+                    ]
+                },
+                "submissionsCount": 1,
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 391,
+                        "height": 1034
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "42.104.212.44",
+                    "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84rq_44rabkuq9",
+                "created": "2026-09-10T06:39:24.586Z",
+                "question": {
+                    "_id": "44ptr84rq"
+                },
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "timeSpent": 23,
+                "updated": "2026-09-10T06:40:11.961Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        4
+                    ]
+                },
+                "submissionsCount": 1,
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84sj_44rabkuq9",
+                "created": "2026-09-10T06:40:13.315Z",
+                "question": {
+                    "_id": "44ptr84sj"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        2
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 2,
+                "updated": "2026-09-10T06:40:14.749Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84u7_44rabkuq9",
+                "created": "2026-09-10T06:40:15.770Z",
+                "question": {
+                    "_id": "44ptr84u7"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        4
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 2,
+                "updated": "2026-09-10T06:40:16.977Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84rt_44rabkuq9",
+                "created": "2026-09-10T06:40:17.813Z",
+                "question": {
+                    "_id": "44ptr84rt"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        4
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 1,
+                "updated": "2026-09-10T06:40:18.800Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84uu_44rabkuq9",
+                "created": "2026-09-10T06:40:19.860Z",
+                "question": {
+                    "_id": "44ptr84uu"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        3
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 2,
+                "updated": "2026-09-10T06:40:20.882Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84rm_44rabkuq9",
+                "created": "2026-09-10T06:40:21.861Z",
+                "question": {
+                    "_id": "44ptr84rm"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        3
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 1,
+                "updated": "2026-09-10T06:40:22.656Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84rn_44rabkuq9",
+                "created": "2026-09-10T06:40:23.386Z",
+                "question": {
+                    "_id": "44ptr84rn"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        3
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 1,
+                "updated": "2026-09-10T06:40:24.361Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            },
+            {
+                "_id": "44ptrfc46_44ptr84rr_44rabkuq9",
+                "created": "2026-09-10T06:40:25.007Z",
+                "question": {
+                    "_id": "44ptr84rr"
+                },
+                "solution": {
+                    "multipleChoiceSolution": [
+                        2
+                    ]
+                },
+                "submissionsCount": 1,
+                "test": {
+                    "_id": "44ptrfc46"
+                },
+                "testCaseVsData": null,
+                "testCaseVsResult": null,
+                "timeSpent": 50,
+                "updated": "2026-09-10T06:41:14.537Z",
+                "user": {
+                    "_id": "44rabkuq9"
+                },
+                "userEnvData": {
+                    "windowResolution": {
+                        "width": 1440,
+                        "height": 717
+                    },
+                    "screenResolution": {
+                        "width": 1536,
+                        "height": 864
+                    },
+                    "userLanguage": "en-US",
+                    "ipAddress": "2a09:bac5:404d:16b4::243:70",
+                    "userAgent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.0.0 Safari/537.36"
+                }
+            }
+        ],
+        "copyPasteEnabled": false,
+        "metadata": {
+            "enableCourseQuizFinish": false
+        }
+    }
+}

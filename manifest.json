@@ -1,0 +1,32 @@
+{
+  "manifest_version": 3,
+  "name": "Hilfe",
+  "version": "1.0",
+  "description": "Intercepts Fetch/XHR requests to https://app.bytexl.ai/test/* and automatically copies the response content to the clipboard.",
+  "permissions": [
+    "clipboardWrite",
+    "activeTab",
+    "scripting",
+    "storage"
+  ],
+  "action": {
+    "default_title": "Copy Last Response",
+    "default_popup": ""
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://app.bytexl.ai/*"],
+      "js": ["content.js"],
+      "run_at": "document_start"
+    },
+    {
+      "matches": ["https://app.bytexl.ai/*"],
+      "js": ["injected.js"],
+      "run_at": "document_start",
+      "world": "MAIN"
+    }
+  ]
+}
